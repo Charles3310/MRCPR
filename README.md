@@ -38,7 +38,7 @@
 | 通訊方式 | Wi-Fi、TCP Socket |
 | AI 模型 | YOLOv8n-cls |
 | 模型格式 | ONNX |
-| 開發工具 | Visual Studio、Arduino IDE |
+| 開發工具 | Visual Studio Code、Arduino IDE |
 
 ---
 
