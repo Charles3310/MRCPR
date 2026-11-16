@@ -1,0 +1,48 @@
+
+=== Wed Jul 23 16:13:31 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.accessibility@1.0.0
+  com.unity.multiplayer.center@1.0.0
+The following packages were updated:
+  com.unity.sentis from version 2.1.1 to 2.1.2
+  com.unity.ugui from version 1.0.0 to 2.0.0
+  com.unity.xr.management from version 4.5.0 to 4.5.1
+  com.unity.xr.oculus from version 4.5.0 to 4.5.1
+
+=== Wed Jul 23 17:25:31 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.31 to 3.0.36
+  com.unity.ide.visualstudio from version 2.0.22 to 2.0.23
+  com.unity.test-framework from version 1.4.5 to 1.5.1
+
+=== Wed Jul 23 17:25:31 2025
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ext.nunit@2.0.5
+  com.unity.ide.rider@3.0.36
+  com.unity.ide.visualstudio@2.0.23
+  com.unity.test-framework@1.5.1
+
+=== Wed Oct  8 23:45:48 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.36 to 3.0.38
+  com.unity.sentis from version 2.1.2 to 2.2.0
+  com.unity.test-framework from version 1.5.1 to 1.6.0
+  com.unity.xr.openxr from version 1.14.3 to 1.15.1
